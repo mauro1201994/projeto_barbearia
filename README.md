@@ -1,3 +1,4 @@
+<img width="1341" height="599" alt="projeto_barbearia" src="https://github.com/user-attachments/assets/ef028af2-cc05-4ab5-b0c1-19fff8793677" />
 💈 Barbearia Fictícia
 
 Este é um projeto de site para uma barbearia fictícia, desenvolvido com HTML, CSS e JavaScript. O objetivo é simular a presença online de uma barbearia moderna, com layout responsivo, seções informativas e interativas, voltado para prática e portfólio.
